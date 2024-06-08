@@ -1,0 +1,15 @@
+{
+  "name": "milcode-studio-preloader-w-gsap",
+  "version": "1.0.0",
+  "description": "Smooth preloader animation using HTML CSS & GSAP",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohsine chedgane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "gsap": "^3.12.5"
+  }
+}
